@@ -1,23 +1,21 @@
 <p align='center'>
   
-[![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://anac-dgoulart.netlify.app/)](https://anac-dgoulart.netlify.app/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/printf-ana)](https://github.com/printf-ana)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carolina-dias-goulart-86b06b173/)](https://www.linkedin.com/in/ana-carolina-dias-goulart-86b06b173/)
-[![Dev.To Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/print_ana)](https://dev.to/print_ana)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/print-ana)](https://t.me/print-ana)
+[![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://pedromartins.dev)](https://pedromartins.dev)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/originwolf)](https://github.com/originwolf)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-martins-dev/)](https://www.linkedin.com/in/pedro-martins-dev/)
 
 </p>
 
 <p align='center'>
-  <img src="https://gpvc.arturio.dev/printf-ana">
+  <img src="https://gpvc.arturio.dev/originwolf">
 </p>
 <p align='center'>
-  Heyy! 👋👋👋👋 
+  Olá pessoas
   <br/>
 </p>
 <h1 align='center'>
-  <b>💻 Programadora Front-end Jr. e Web-Designer </b> <br>
-  <b>💻 Licenciatura em Computação </b>
+  <b>💻 Desenvolvedor Front-end</b> <br>
+  <b>💻 Sistemas de Informação </b>
   </h1>
 
 <p align='center'>
@@ -30,11 +28,11 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=printf-ana&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=originwolf&show_icons=true&theme=midnight-purple">
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=printf-ana&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originwolf&layout=compact&theme=midnight-purple">
 </p>
 
 
